@@ -22,4 +22,8 @@ Automate parser generator for HTML documents
  
  HTML Formatting
  --format : formatting html
+ 
+ Tools
+ --find-media : find media download links
+ --transform  : transform video format
 ```
