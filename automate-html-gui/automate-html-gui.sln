@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automate-html-gui", "automate-html-gui\automate-html-gui.csproj", "{9BD5433A-3664-4591-806F-17F590D84F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD5433A-3664-4591-806F-17F590D84F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD5433A-3664-4591-806F-17F590D84F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD5433A-3664-4591-806F-17F590D84F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD5433A-3664-4591-806F-17F590D84F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36903D5-70C4-4803-B082-D7B8C22DC398}
+	EndGlobalSection
+EndGlobal
