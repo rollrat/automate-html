@@ -2,6 +2,10 @@
 
 Automate parser generator for HTML documents
 
+## GUI
+
+![](ex.gif)
+
 ## Functions TODO
 
 ```
